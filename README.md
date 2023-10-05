@@ -1,4 +1,5 @@
 # Simple Github Blog Templates
+> 공학적인 컴퓨터 사이언스를 적는 곳입니다.
 
 ## Ref.
 
