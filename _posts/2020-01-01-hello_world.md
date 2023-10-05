@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Hello, World!
-author: John Doe
+title: 안녕하세요 반갑습니다
+author: agamiboy
 tags: article, nextjs, js
 ---
 
 # Hello, World!
-
+agamiboy 얼그레이 다이키리: 플랜테이션 화이트럼 50 얼그레이 시럽 20 라임주스 15 쉐이킹 후 칵테일잔에 담아주기
+돌림노래와 함Rp 즐기기
 ## This is my first post
